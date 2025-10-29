@@ -314,7 +314,7 @@ body {
 
 /* Slider container */
 #home {
-    margin-top: 73px; /* Adjust for fixed header height */
+    margin-top: 80px; /* Adjust for fixed header height */
 }
 .slider {
     position: relative;
@@ -3243,4 +3243,5 @@ body {
                     width: 20px;
                     height: 20px;
                 }
+
             }
